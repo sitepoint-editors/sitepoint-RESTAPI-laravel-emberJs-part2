@@ -5,3 +5,5 @@ This is the source code for the serie on Building Rest Apis with Laravel and Emb
 On this folder execute 'vagrant box add laravel/homestead' and then  'vagrant up'
 
 On Laravels folder execute 'composer install'
+
+On public folder execute bower install
